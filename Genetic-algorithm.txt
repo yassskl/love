@@ -59,3 +59,7 @@ if __name__ == '__main__':
     best_value = fitness_function(int(best_solution, 2))
     print("Best solution:", best_solution)
     print("Best value:", best_value)
+
+
+
+#salam
